@@ -1,0 +1,214 @@
+<resources>
+    <string name="app_name">StaggeredAnimated</string>
+    <string-array name="galary_cover_images">
+
+        <item name="games">0B7wgdvOjaTY3MkZjRTJFejY5TG8</item>
+        <item name = "fantasy">0B7wgdvOjaTY3eG0xNVJYN1gzVVU</item>
+        <item name ="abstract">0B7wgdvOjaTY3cURBVHNnbU9nUFk</item>
+        <item name ="food">0B7wgdvOjaTY3dG5NQjR5Qlc2UVU</item>
+        <!--<item>0ByTs7NLFqGYkbzUwajBWZEtRYWc</item>-->
+        <!--<item>0ByTs7NLFqGYkTVFwRUh2aDdWb2c</item>-->
+        <!--<item>0ByTs7NLFqGYkWEw3OWJfYUZVcEU</item>-->
+        <!--<item>0ByTs7NLFqGYkQUpxeWY3MEZWaE0</item>-->
+        <!--<item>0ByTs7NLFqGYkdXZRN2Q5LVI3VU0</item>-->
+        <!--<item>0ByTs7NLFqGYkSkNBOVdvc2lsaW8</item>-->
+        <!--<item>0ByTs7NLFqGYkNGZfRXh0cVFCN1k</item>-->
+        <!--<item>0ByTs7NLFqGYkZU5WeWg1ZmpqbWc</item>-->
+        <!--<item>0ByTs7NLFqGYka09NQksxVFNuN2c</item>-->
+        <!--<item>0ByTs7NLFqGYkb1BSQ0JkcUVxZWM</item>-->
+        <!--<item>0ByTs7NLFqGYkUjlMTHQwX3c3SVE</item>-->
+        <!--<item>0ByTs7NLFqGYkMzQwc1BSSTduQ3c</item>-->
+        <!--<item>0ByTs7NLFqGYkWGxmNndsWkNaOHc</item>-->
+        <!--<item>0ByTs7NLFqGYkYlA2T0ljUG0yTTQ</item>-->
+
+
+    </string-array>
+    <string-array name="thumb_games">
+
+    <item name="games">0B7wgdvOjaTY3MkZjRTJFejY5TG8</item>
+    <item name = "fantasy">0B7wgdvOjaTY3eGJoV0o1QUEtUjQ</item>
+    <item name ="abstract">0B7wgdvOjaTY3VzhFaGxRYVZIYW8</item>
+    <item name ="food">0B7wgdvOjaTY3M25QMEdfT3Jhc00</item>
+        <item name="games">0B7wgdvOjaTY3czNPNGNQTzZ6LVE</item>
+        <item name="games">0B7wgdvOjaTY3SGl3Mk1uVUpIODg</item>
+        <item name = "fantasy">0B7wgdvOjaTY3MHJTR1BJc0JhV28</item>
+        <item name ="abstract">0B7wgdvOjaTY3eG0xNVJYN1gzVVU</item>
+        <item name ="food">0B7wgdvOjaTY3cURBVHNnbU9nUFk</item>
+        <item name="games">0B7wgdvOjaTY3dG5NQjR5Qlc2UVU</item>
+        <item name = "fantasy">0B7wgdvOjaTY3VXZqR2duZ0ZjTjA</item>
+        <item name ="abstract">0B7wgdvOjaTY3V1htSi1haEhCMU0</item>
+    </string-array>
+    <string-array name="galary_cover_name">
+
+        <item name="games">Games</item>
+        <item name = "fantasy">Fantasy</item>
+        <item name ="abstract">Abstract</item>
+        <item name ="food">Food</item>
+        <!--<item>0ByTs7NLFqGYkbzUwajBWZEtRYWc</item>-->
+        <!--<item>0ByTs7NLFqGYkTVFwRUh2aDdWb2c</item>-->
+        <!--<item>0ByTs7NLFqGYkWEw3OWJfYUZVcEU</item>-->
+        <!--<item>0ByTs7NLFqGYkQUpxeWY3MEZWaE0</item>-->
+        <!--<item>0ByTs7NLFqGYkdXZRN2Q5LVI3VU0</item>-->
+        <!--<item>0ByTs7NLFqGYkSkNBOVdvc2lsaW8</item>-->
+        <!--<item>0ByTs7NLFqGYkNGZfRXh0cVFCN1k</item>-->
+        <!--<item>0ByTs7NLFqGYkZU5WeWg1ZmpqbWc</item>-->
+        <!--<item>0ByTs7NLFqGYka09NQksxVFNuN2c</item>-->
+        <!--<item>0ByTs7NLFqGYkb1BSQ0JkcUVxZWM</item>-->
+        <!--<item>0ByTs7NLFqGYkUjlMTHQwX3c3SVE</item>-->
+        <!--<item>0ByTs7NLFqGYkMzQwc1BSSTduQ3c</item>-->
+        <!--<item>0ByTs7NLFqGYkWGxmNndsWkNaOHc</item>-->
+        <!--<item>0ByTs7NLFqGYkYlA2T0ljUG0yTTQ</item>-->
+
+
+    </string-array>
+    
+    <string-array name="games">
+        <item>0B7wgdvOjaTY3N3B4a0dhcEMxWU0</item>
+        <item>0B7wgdvOjaTY3NnNFVHV4dmhQRU0</item>
+        <item>0B7wgdvOjaTY3aEQxRnlocGRpOWs</item>
+        <item>0B7wgdvOjaTY3RnRFbkt5T1FyZ2c</item>
+        <item>0B7wgdvOjaTY3S1NnU29LaVBvUXM</item>
+        <item>0B7wgdvOjaTY3bE1xMDZNWVB3ZGs</item>
+        <item>0B7wgdvOjaTY3OC03R1dxOXJJRW8</item>
+        <item>0B7wgdvOjaTY3OTZQT1N1bnNoZTQ</item>
+        <item>0B7wgdvOjaTY3OURFbkk2UVZMN00</item>
+        <item>0B7wgdvOjaTY3TjJMMGNJVTFwUDg</item>
+        <item>0B7wgdvOjaTY3U1VhUnNyTU0yNUU</item>
+        <item>0B7wgdvOjaTY3SElkLUMxUlgwV1k</item>
+        <item>0B7wgdvOjaTY3ZFB1cGNEZEVGTTA</item>
+        <item>0B7wgdvOjaTY3akRSUDhKNHJOVW8</item>
+        <item>0B7wgdvOjaTY3XzhnQzlMcmNaSWM</item>
+        <item>0B7wgdvOjaTY3STFmcWlkWG5kc00</item>
+        <item>0B7wgdvOjaTY3SzJTbmZybGxRRlU</item>
+        <item>0B7wgdvOjaTY3UU1UY041Q245MXM</item>
+
+
+        <item>0B7wgdvOjaTY3VGk3R05qU05JZkE</item>
+        <item>0B7wgdvOjaTY3OWI2Q3FKcm1TY2M</item>
+        <item>0B7wgdvOjaTY3MXIwV051YTI1N1k</item>
+        <item>0B7wgdvOjaTY3V0ZXODV1TnJubzA</item>
+        <item>0B7wgdvOjaTY3bV9fRXk2ekhIbE0</item>
+        <item>0B7wgdvOjaTY3ZXg5d2JwdE4yYUE</item>
+        <item>0B7wgdvOjaTY3blhXVVo0dzRxS2c</item>
+        <item>0B7wgdvOjaTY3RHJzRWl3MEtPTXM</item>
+        <item>0B7wgdvOjaTY3bUN5NEJXX0k5enM</item>
+        <item>0B7wgdvOjaTY3Q3BtTk5UeU81bXc</item>
+        <item>0B7wgdvOjaTY3aGlyeHkxMGZBTWM</item>
+        <item>0B7wgdvOjaTY3dzdiV3Eyd0hmUkk</item>
+        <item>0B7wgdvOjaTY3eWRzZlV5NkoxSUU</item>
+        <item>0B7wgdvOjaTY3V2VIMUV6T3pYckE</item>
+        <item>0B7wgdvOjaTY3c3ZFcHUwR19Hb1U</item>
+        <item>0B7wgdvOjaTY3cHptdzBxLXp3WE0</item>
+        <item>0B7wgdvOjaTY3Ykp0WW9NQ1hBRGc</item>
+        <item>0B7wgdvOjaTY3djJfMXJSSHRpblE</item>
+
+
+        <item>0B7wgdvOjaTY3bzB2YWpjVlFUY2c</item>
+        <item>0B7wgdvOjaTY3Zk53TWNtMFAyNzg</item>
+        <item>0B7wgdvOjaTY3OHlEUXY1RG4tWnM</item>
+        <item>0B7wgdvOjaTY3T29aazFCSEdfSjg</item>
+        <item>0B7wgdvOjaTY3SXVsZEwzX2NVdXc</item>
+        <item>0B7wgdvOjaTY3S0VjeVdDc0ZFRTg</item>
+        <item>0B7wgdvOjaTY3VzZQOU1yTlhPZ0k</item>
+        <item>0B7wgdvOjaTY3amI2TUxJWWpnaW8</item>
+        <item>0B7wgdvOjaTY3YThLRWZHQmpJS1U</item>
+        <item>0B7wgdvOjaTY3YlpFdVdnVHpfRVU</item>
+        <item>0B7wgdvOjaTY3ckpSMjZ1aFRHSjg</item>
+        <item>0B7wgdvOjaTY3RjZKQjI3dWowdnM</item>
+        <item>0B7wgdvOjaTY3Q1JFQV9aODdRY0E</item>
+        <item>0B7wgdvOjaTY3OFF3V3dOZEhXZjA</item>
+        <item>0B7wgdvOjaTY3enBVZ1NxRWtqWWc</item>
+        <item>0B7wgdvOjaTY3Z3dBU21uSnZFaG8</item>
+
+
+    </string-array>
+
+    <string-array name="fantasy">
+        <item>0B7wgdvOjaTY3SFVqeFBtcTRsSHM</item>
+        <item>0B7wgdvOjaTY3SVBKbU1odVpfOTA</item>
+        <item>0B7wgdvOjaTY3cWhpN011bTZCUW8</item>
+        <item>0B7wgdvOjaTY3NElzX0RVeVVFVTg</item>
+        <item>0B7wgdvOjaTY3X09JMkh0YTlvZTQ</item>
+        <item>0B7wgdvOjaTY3ckxyalBEVXp5WjQ</item>
+        <item>0B7wgdvOjaTY3ckxyalBEVXp5WjQ</item>
+        <item>0B7wgdvOjaTY3Q0xSWU1nLW9SZEk</item>
+        <item>0B7wgdvOjaTY3VEhvOGZHbDVDUE0</item>
+        <item>0B7wgdvOjaTY3R2lJaGRmaHZ0elU</item>
+        <item>0B7wgdvOjaTY3c2RVNnV5aENPcFE</item>
+        <item>0B7wgdvOjaTY3bUk1LVBiLW4yZkU</item>
+        <item>0B7wgdvOjaTY3Yngyei1TX2ZreFU</item>
+        <item>0B7wgdvOjaTY3OGp3OFcwOUlhSzQ</item>
+        <item>0B7wgdvOjaTY3QllETmVLYnpCQlk</item>
+        <item>0B7wgdvOjaTY3Q2xnYUxkUU9ELVE</item>
+        <item>0B7wgdvOjaTY3WS1GYWFMdHRkNEk</item>
+        <item>0B7wgdvOjaTY3S3k4NzNiV2pBdFU</item>
+
+        <item>0B7wgdvOjaTY3N3J0SFNoMThwTnM</item>
+        <item>0B7wgdvOjaTY3QTZWazA2QUtST0E</item>
+        <item>0B7wgdvOjaTY3X3dxbWFoVW4xbDA</item>
+        <item>0B7wgdvOjaTY3Z2JJNDJNZXl5VjA</item>
+        <item>0B7wgdvOjaTY3Ml9WbFFtX2VIbG8</item>
+        <item>0B7wgdvOjaTY3NGJGeHROUUFPb1U</item>
+        <item>0B7wgdvOjaTY3Zk1xNnBFVmtITkk</item>
+        <item>0B7wgdvOjaTY3ZjBNYkZkck4yWVE</item>
+        <item>0B7wgdvOjaTY3eC1DbDZBOUF2T28</item>
+        <item>0B7wgdvOjaTY3Ql92a2hpQ3pWcGM</item>
+        <item>0B7wgdvOjaTY3WWNWcmNhYVdjMEU</item>
+        <item>0B7wgdvOjaTY3dHlFM2dGNlJZMGs</item>
+        <item>0B7wgdvOjaTY3cDFXR2Q2a2FGMnc</item>
+        <item>0B7wgdvOjaTY3VVVtWE40QkJWR00</item>
+        <item>0B7wgdvOjaTY3VnB2cHBnMkFqUjQ</item>
+        <item>0B7wgdvOjaTY3a3ZjVnVzbEdaMUE</item>
+        <item>0B7wgdvOjaTY3ay1NY25GTWNOeU0</item>
+        <item>0B7wgdvOjaTY3ckt1cnpTXzBGdW8</item></string-array>
+
+    <string-array name="abstracts">
+        <item>0ByTs7NLFqGYkV3hNWEx5ZkRmUUk</item>
+        <item>0ByTs7NLFqGYkc2xDcmFPRVFoRlk</item>
+        <item>0ByTs7NLFqGYkaGFNbm9fTERLU3M</item>
+        <item>0ByTs7NLFqGYkRlRDMUEzLS1kSG8</item>
+        <item>0ByTs7NLFqGYkakQxNWt0aWJZVGc</item>
+        <item>0ByTs7NLFqGYkVWdFNEo2QkZWbDQ</item>
+        <item>0ByTs7NLFqGYkc0tiOF9XNUc2R3M</item>
+        <item>0ByTs7NLFqGYkT3JEMHRUNWl4dDQ</item>
+        <item>0ByTs7NLFqGYkY3dYRWpHdlMxR1E</item>
+        <item>0ByTs7NLFqGYkX2wtNDFHRXRpTEE</item>
+        <item>0ByTs7NLFqGYkSmhhZEU2Tm1Ddmc</item>
+        <item>0ByTs7NLFqGYkVXlsMjhmRlQ1Q2c</item>
+        <item>0ByTs7NLFqGYkRTgxVUFRZWU1NWM</item>
+        <item>0ByTs7NLFqGYkOXJSZ1J3RUJmNVk</item>
+        <item>0ByTs7NLFqGYkU2RLb0RlNllMbGc</item>
+        <item>0ByTs7NLFqGYkbDZ4em80SkpvdE0</item>
+        <item>0ByTs7NLFqGYkU05BbzI4TEFZeGM</item>
+        <item>0ByTs7NLFqGYkaTdPTVZQZTBVRm8</item>
+        <item>0ByTs7NLFqGYkTERXbXNkajRzQlk</item>
+    </string-array>
+
+    <string-array name="food">
+        <item>0ByTs7NLFqGYkWkh4eFJPNG9hNjA</item>
+        <item>0ByTs7NLFqGYkTnl6YkM0MFRCQnc</item>
+        <item>0ByTs7NLFqGYkNUg4T21LNFVuSUE</item>
+        <item>0ByTs7NLFqGYkdU82MlE4QnYwRjg</item>
+        <item>0ByTs7NLFqGYkbEN3X2FIbENoQXc</item>
+        <item>0ByTs7NLFqGYkZGNENGZCVlE3ZHc</item>
+        <item>0ByTs7NLFqGYkY1FNUVplamR6cXM</item>
+        <item>0ByTs7NLFqGYkdEpqYmVyQ29kX00</item>
+        <item>0ByTs7NLFqGYkQ0RqSmNJS0p0X00</item>
+        <item>0ByTs7NLFqGYkUDhvSU1vWlFoU3c</item>
+        <item>0ByTs7NLFqGYkdkpnNGkwUWhzSEk</item>
+        <item>0ByTs7NLFqGYkblVxWW5sNWhNNXM</item>
+        <item>0ByTs7NLFqGYkdzBMX2FWbDMtaUU</item>
+        <item>0ByTs7NLFqGYkSG1VNzFjSVlYVWs</item>
+        <item>0ByTs7NLFqGYkdXBsT1pBVnd0c2M</item>
+        <item>0ByTs7NLFqGYkRE91THR2QjgybTg</item>
+        <item>0ByTs7NLFqGYkNHJ6ZjFxaFBFYlE</item>
+        <item>0ByTs7NLFqGYkbG5yRzFEY05NRHM</item>
+        <item>0ByTs7NLFqGYkeW5yQVEwc2haMjA</item>
+        <item>0ByTs7NLFqGYkaDJOdTd2ZzI0bDA</item>
+        <item>0ByTs7NLFqGYkcGE4TDRheEo0ck0</item>
+        <item>0ByTs7NLFqGYkb0d4ZkROSzRnX2c</item>
+        <item>0ByTs7NLFqGYkZFRPQ3Q0ZnJXUEE</item>
+        <item>0ByTs7NLFqGYkdmVBWFpiN2lKbDA</item>
+        <item>0ByTs7NLFqGYkZEk3V2c0OVczOWc</item>
+    </string-array>
+</resources>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/jitender-android/.android/build-cache/9fb6d2727f9a9ac41fa66b472e475e92a53da683/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/home/jitender-android/PROJECTS/StaggeredAnimated/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f05d550e529aae735b0ed2d36ae7d6910d72875/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jitender-android/.android/build-cache/031abcb087bd03841b0cafa91a98cc6aa1521d37/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/home/jitender-android/PROJECTS/StaggeredAnimated/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_802c30e075623a9dccf8a38d699d5545f2126c9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jitender-android/.android/build-cache/336e17885bea68fbdb5f60d05d548693b3d7468f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/jitender-android/PROJECTS/StaggeredAnimated/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9906f69b70617cc2a5f240fd76b75aad34c3db00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jitender-android/PROJECTS/StaggeredAnimated/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7df126e5d988c5ea959c8765ea1728a8f038b3a9">
+        <dex dex="/home/jitender-android/PROJECTS/StaggeredAnimated/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0244a3545aecc6f9b0e4e68cbf174de2b99c2983/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jitender-android/.android/build-cache/c6576dde78d2fba5e563b4ec56ed8b89b0cfe047/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/home/jitender-android/PROJECTS/StaggeredAnimated/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_453ef9c27fbf000c308ee18d6729c35f65046a6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jitender-android/.android/build-cache/5dcb6a8e63fd5471a751f36841e018319414d832/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="/home/jitender-android/PROJECTS/StaggeredAnimated/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4332e86dcb9710ba38ac428d575b7f9a6b1c6c4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jitender-android/.android/build-cache/610f67439bc8b2ea868e7a2579c9e86e46a8a1fa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="/home/jitender-android/PROJECTS/StaggeredAnimated/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_752e6489d3f525d40f1498180d571af34ca4f6a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jitender-android/PROJECTS/StaggeredAnimated/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/jitender-android/PROJECTS/StaggeredAnimated/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c739569ea6894cf02d45cc8fa55aee0d6eb06a3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jitender-android/.android/build-cache/8330e8998783c89908ac4406f4fc0918337f1da3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/jitender-android/PROJECTS/StaggeredAnimated/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48cefe10a7cd0c4440c17aef28fd5628522148fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jitender-android/.android/build-cache/b99873af72440b691ad385f27151607d5f233fc1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/home/jitender-android/PROJECTS/StaggeredAnimated/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f2c97f9d0dcd60cde59f771069361f001cf329e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jitender-android/.android/build-cache/ea9b7eb47f3715f29d9f59395b68ec70d4952de3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/home/jitender-android/PROJECTS/StaggeredAnimated/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e47ea14cfc54014e8a0b2528ecbd013a2e6fabcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jitender-android/.android/build-cache/7d84841bb0fbb404c8291e0a49d844b848c0b95c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/home/jitender-android/PROJECTS/StaggeredAnimated/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5931be184fe2bca847069f3adc546c2832cf9384/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jitender-android/PROJECTS/StaggeredAnimated/app/libs/android-query.0.26.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa997823bc89263500714864ff136de1e6025b4e">
+        <dex dex="/home/jitender-android/PROJECTS/StaggeredAnimated/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-query.0.26.7_2b9c9f6b94d6db2326fcd6dfd0a0764057f461f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jitender-android/.android/build-cache/499a00df5097ca2cf0d09a25e7dfb6c83ff4e03e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27c6f134320940501b417f68d8e6aa5d4675f651">
+        <dex dex="/home/jitender-android/PROJECTS/StaggeredAnimated/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1c444ed6991927565f40492eb1833b9d25fb73f/classes.dex" />
+    </item>
+
+</items>

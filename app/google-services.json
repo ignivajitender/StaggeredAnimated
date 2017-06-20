@@ -1,0 +1,301 @@
+{
+  "project_info": {
+    "project_number": "714810377973",
+    "firebase_url": "https://igniva-solutions.firebaseio.com",
+    "project_id": "igniva-solutions",
+    "storage_bucket": "igniva-solutions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714810377973:android:95716f7bafb4ead1",
+        "android_client_info": {
+          "package_name": "com.igniva.kojji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714810377973-q43ipubrcu9c19b11uigcijnr06almpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.igniva.kojji",
+            "certificate_hash": "b1bb1bc2c59f8c9b4753d93e471e2486d2abeb28"
+          }
+        },
+        {
+          "client_id": "714810377973-0fd0g83m6u4dldn6is3g6fduf8e6at06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwxDidKzzZfAuILfukTyvigTDWOLsC2A0"
+        },
+        {
+          "current_key": "AIzaSyCZYXqqi_Pj73oSuCvo28d4xE-8C7zVWpY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714810377973-0fd0g83m6u4dldn6is3g6fduf8e6at06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714810377973:android:3f8220f729e1c296",
+        "android_client_info": {
+          "package_name": "com.igniva.spicemint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714810377973-n2dvovlqb7clsvnkl8n93skjb3ft4hk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.igniva.spicemint",
+            "certificate_hash": "421d324de41d31d7d976b54881dfef7e752b5734"
+          }
+        },
+        {
+          "client_id": "714810377973-0fd0g83m6u4dldn6is3g6fduf8e6at06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwxDidKzzZfAuILfukTyvigTDWOLsC2A0"
+        },
+        {
+          "current_key": "AIzaSyCZYXqqi_Pj73oSuCvo28d4xE-8C7zVWpY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714810377973-0fd0g83m6u4dldn6is3g6fduf8e6at06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714810377973:android:6e3c5eba7d77c152",
+        "android_client_info": {
+          "package_name": "com.igniva.pixal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714810377973-0fd0g83m6u4dldn6is3g6fduf8e6at06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwxDidKzzZfAuILfukTyvigTDWOLsC2A0"
+        },
+        {
+          "current_key": "AIzaSyCZYXqqi_Pj73oSuCvo28d4xE-8C7zVWpY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714810377973:android:77c352163dcec5de",
+        "android_client_info": {
+          "package_name": "com.igniva.shootit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714810377973-0fd0g83m6u4dldn6is3g6fduf8e6at06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwxDidKzzZfAuILfukTyvigTDWOLsC2A0"
+        },
+        {
+          "current_key": "AIzaSyCZYXqqi_Pj73oSuCvo28d4xE-8C7zVWpY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714810377973:android:291d6bd5ca88e4e4",
+        "android_client_info": {
+          "package_name": "com.igniva.spicemintconsumer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714810377973-qum1lh3n54icng35jde53htr570i400s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.igniva.spicemintconsumer",
+            "certificate_hash": "38c784bbaaa59eb3b198ecf76858703d20341a48"
+          }
+        },
+        {
+          "client_id": "714810377973-0fd0g83m6u4dldn6is3g6fduf8e6at06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwxDidKzzZfAuILfukTyvigTDWOLsC2A0"
+        },
+        {
+          "current_key": "AIzaSyCZYXqqi_Pj73oSuCvo28d4xE-8C7zVWpY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714810377973-0fd0g83m6u4dldn6is3g6fduf8e6at06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714810377973:android:3d5872e61475324b",
+        "android_client_info": {
+          "package_name": "com.igniva.quickdockets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714810377973-0fd0g83m6u4dldn6is3g6fduf8e6at06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwxDidKzzZfAuILfukTyvigTDWOLsC2A0"
+        },
+        {
+          "current_key": "AIzaSyCZYXqqi_Pj73oSuCvo28d4xE-8C7zVWpY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714810377973:android:1947a2ad5dbb9a0b",
+        "android_client_info": {
+          "package_name": "com.igniva.staggeredanimated"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714810377973-j3ba4jsqgheoundddlprcolpmiob649u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.igniva.staggeredanimated",
+            "certificate_hash": "b1bb1bc2c59f8c9b4753d93e471e2486d2abeb28"
+          }
+        },
+        {
+          "client_id": "714810377973-0fd0g83m6u4dldn6is3g6fduf8e6at06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwxDidKzzZfAuILfukTyvigTDWOLsC2A0"
+        },
+        {
+          "current_key": "AIzaSyCZYXqqi_Pj73oSuCvo28d4xE-8C7zVWpY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714810377973-0fd0g83m6u4dldn6is3g6fduf8e6at06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
