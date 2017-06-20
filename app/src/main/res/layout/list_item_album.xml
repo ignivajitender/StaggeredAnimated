@@ -10,7 +10,7 @@
 
     <ImageView
         android:id="@+id/image"
-        android:src="@drawable/ic_launcher"
+        android:src="@drawable/loading"
         android:transitionName="profile"
         android:layout_height="wrap_content"
         android:layout_width="match_parent"

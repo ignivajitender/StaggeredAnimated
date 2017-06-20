@@ -30,13 +30,12 @@ import com.igniva.staggeredanimated.ui.adapter.GallaryAdapter;
 import com.igniva.staggeredanimated.model.ItemObjects;
 import com.igniva.staggeredanimated.R;
 import com.igniva.staggeredanimated.Utils.UtilsUI;
-import com.jpardogo.listbuddies.lib.views.ListBuddiesLayout;
 import com.mikepenz.materialdrawer.Drawer;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class GalleryAcivity extends AppCompatActivity  implements ListBuddiesLayout.OnBuddyItemClickListener {
+public class GalleryAcivity extends AppCompatActivity {
 
     int[] mScrollConfig;
     private String[] mImagesLeft,mImagesRight;
@@ -356,14 +355,8 @@ public class GalleryAcivity extends AppCompatActivity  implements ListBuddiesLay
         return listViewItems;
     }
 
-    @Override
-    public void onBuddyItemClicked(AdapterView<?> parent, View view, int buddy, int position, long id) {
 
-        Intent intent = new Intent(this, GallaryDetailActivity.class);
-                ActivityOptionsCompat options = ActivityOptionsCompat.
-                        makeSceneTransitionAnimation(this, view, "profile");
-                startActivity(intent, options.toBundle());
-    }
+
 
 
     public void getAlbumData() {
