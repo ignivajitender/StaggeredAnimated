@@ -20,13 +20,11 @@ import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.bumptech.glide.request.animation.GlideAnimation;
 import com.bumptech.glide.request.target.SimpleTarget;
-import com.davemorrissey.labs.subscaleview.ImageSource;
 import com.igniva.staggeredanimated.Utils.Constants;
 import com.igniva.staggeredanimated.model.ItemObjects;
 import com.igniva.staggeredanimated.R;
-import com.igniva.staggeredanimated.ui.activity.GallaryDetailActivity;
+import com.igniva.staggeredanimated.ui.activity.AlbumDetailActivity;
 import com.igniva.staggeredanimated.ui.activity.ItemDetailActivity;
-import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
@@ -120,7 +118,7 @@ public class GalaryItemAdapter extends RecyclerView.Adapter<GalaryItemAdapter.So
                     Intent intent = new Intent(context, ItemDetailActivity.class);
                     intent.putExtra(ItemDetailActivity.EXTRA_POSITION, position);
                     intent.putExtra(ItemDetailActivity.GALARY_TYPE, mPosition);
-                    intent.putExtra(GallaryDetailActivity.ALBUMID,mAlbumId);
+                    intent.putExtra(AlbumDetailActivity.ALBUMID,mAlbumId);
 
                     ActivityOptionsCompat options = ActivityOptionsCompat.
                             makeSceneTransitionAnimation((Activity) context, (View) view, "profile");

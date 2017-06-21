@@ -11,13 +11,13 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme_noactionbar">
-        <activity android:name=".ui.activity.GalleryAcivity">
+        <activity android:name=".ui.activity.MainAcivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ui.activity.GallaryDetailActivity"></activity>
+        <activity android:name=".ui.activity.AlbumDetailActivity"></activity>
         <activity android:name=".ui.activity.ItemDetailActivity"></activity>
     </application>
 

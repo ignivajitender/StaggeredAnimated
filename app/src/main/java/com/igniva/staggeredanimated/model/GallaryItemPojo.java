@@ -14,18 +14,18 @@ public class GallaryItemPojo {
     ArrayList<ItemObjects> fanstasyList;
     ArrayList<ItemObjects> abstractList;
     ArrayList<ItemObjects> foodList;
-    private static GallaryItemPojo gallaryItemPojo;
+   // private static GallaryItemPojo gallaryItemPojo;
 
-    private GallaryItemPojo gallaryItemPojo(){
-        return gallaryItemPojo;
-    }
+//    private GallaryItemPojo gallaryItemPojo(){
+//        return gallaryItemPojo;
+//    }
 
-    public static GallaryItemPojo getInstance(){
-        if(gallaryItemPojo == null){
-            gallaryItemPojo = new GallaryItemPojo();
-        }
-        return gallaryItemPojo;
-    }
+//    public static GallaryItemPojo getInstance(){
+//        if(gallaryItemPojo == null){
+//            gallaryItemPojo = new GallaryItemPojo();
+//        }
+//        return gallaryItemPojo;
+//    }
     public ArrayList<ItemObjects> getGalaryList() {
         return galaryList;
     }

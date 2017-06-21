@@ -22,7 +22,7 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.igniva.staggeredanimated.Utils.Constants;
 import com.igniva.staggeredanimated.model.ItemObjects;
 import com.igniva.staggeredanimated.R;
-import com.igniva.staggeredanimated.ui.activity.GallaryDetailActivity;
+import com.igniva.staggeredanimated.ui.activity.AlbumDetailActivity;
 
 import java.util.List;
 
@@ -82,11 +82,11 @@ public class GallaryAdapter extends RecyclerView.Adapter<GallaryAdapter.SolventV
             holder.galaryCoverPhoto.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-                    Intent intent = new Intent(context, GallaryDetailActivity.class);
-                    intent.putExtra(GallaryDetailActivity.GALARY_IMAGE_URL, itemList.get(position).getImage_url());
-                    intent.putExtra(GallaryDetailActivity.GALARY_NAME,itemList.get(position).getName());
-                    intent.putExtra(GallaryDetailActivity.POSITION,position);
-                    intent.putExtra(GallaryDetailActivity.ALBUMID,itemList.get(position).getId());
+                    Intent intent = new Intent(context, AlbumDetailActivity.class);
+                    intent.putExtra(AlbumDetailActivity.GALARY_IMAGE_URL, itemList.get(position).getImage_url());
+                    intent.putExtra(AlbumDetailActivity.GALARY_NAME,itemList.get(position).getName());
+                    intent.putExtra(AlbumDetailActivity.POSITION,position);
+                    intent.putExtra(AlbumDetailActivity.ALBUMID,itemList.get(position).getId());
 
                     ((Activity)context).startActivity(intent);
                 }

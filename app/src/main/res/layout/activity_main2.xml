@@ -8,7 +8,7 @@
     android:scrollbars="vertical"
     android:fillViewport="true"
 
-    tools:context="com.igniva.staggeredanimated.ui.activity.GallaryDetailActivity">
+    tools:context="com.igniva.staggeredanimated.ui.activity.AlbumDetailActivity">
 <RelativeLayout
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
